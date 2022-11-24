@@ -5,10 +5,17 @@ body {
 h1 {
   font-family: verdana;
   font-size: 300%;
+  padding: 30px;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 150%;
+  padding: 30px;
 }
 
 p {
   font-family: courier;
-  font-size: 160%;
+  font-size: 100%;
   padding: 30px;
 }
